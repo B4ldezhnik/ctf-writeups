@@ -1,14 +1,14 @@
 # 🛡 Cybersecurity & CTF Writeups
 
-Welcome to my repository! This space is dedicated to my journey in cybersecurity, where I document my solutions for various Capture The Flag (CTF) challenges, analyze vulnerabilites, and track my progress.
+Welcome to my repository! This space is dedicated to my journey in cybersecurity, where I document my solutions for various Capture The Flag (CTF) challenges, analyze vulnerabilities, and track my progress.
 
 ---
 
 ## 🎯 About Me & My Goals
-I am a passionate, self-taught tech enthusiast and an aspiring **Security Operations Center (SOC) Analyst / Petetration Tester**. I focus heavily on deep-diving into web application security, digital anonymity, and cryptography.
+I am a passionate, self-taught tech enthusiast and an aspiring **Security Operations Center (SOC) Analyst / Penetration Tester**. I focus heavily on deep-diving into web application security, digital anonymity, and cryptography.
 
 ** Privacy & Security Philosophy:**
-Strong believer in high-level digital privacy. I enjoy configuring secure environments, building privaete network protocols, and analyzing hardware-level security.
+Strong believer in high-level digital privacy. I enjoy configuring secure environments, building private network protocols, and analyzing hardware-level security.
 
 ---
 
