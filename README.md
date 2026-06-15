@@ -1,4 +1,4 @@
-# Natas16 - Bling command injection Writeup
+# Natas16 - Blind command injection Writeup
 
 ## Problem Statement
 The challenge required extracting the password for "Natas17" from a file located at '/etc/natas_webpass/natas17'. The web application uses 'grep' to filter a dictionary file based on user input, but in filter out common injection symbols like ";/\" and "&"
