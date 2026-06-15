@@ -12,7 +12,7 @@ Since the application output is not directly reflected (Blind Injection), I impl
 2. **Side-Channel Analysis**: It measures the length of the HTTP response using Python's "len()" function.
 3. **Filtering**
 	- An incorrect characters returns an 1122-byte responce.
-	- A correct characters returns an 1105-bye responce <-  this a valid character
+	- A correct characters returns an 1105-byte responce <-  this a valid character
 
 ##Results
 The password was successfully recovered by automating this request loop, demonstrating the effectiveness of blind injection techniques in bypassing restricted command shells
