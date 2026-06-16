@@ -9,7 +9,7 @@ for sess_id in range(1, 641):
 
     print(f"Checking ID: {sess_id}. . .", end="\r") # Visual counter of BruteForce
 
-    if "you are an admin" in response.text.lower(): # finding the unique text in response.text
+    if "you are an admin" in response.text.lower(): # finding the unique text in response text
         print(f"[+]Admin session was found! ID: {sess_id}")
         print(response.text)
         break
