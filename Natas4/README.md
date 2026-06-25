@@ -11,3 +11,5 @@ In current level we can see typical Vulnerability where validation method is wea
 
 ### Results
 WebSite give us a password to next level! 
+
+[1^] - (HTTP headers) -  requests to server where located ur user agent and other any information
